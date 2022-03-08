@@ -1,5 +1,5 @@
 # EsoneroUDP-DNS
 
-Modalità di avvio:
-1) Client e Server possono avviarsi senza passare parametri, in tal caso il nome del server è ``localhost`` e la porta è ``56700`` 
-2) Sia Client che Server possono avviarsi passando un singolo parametro nel formato: ``nomeserver:porta``
+How to run?
+1) Client and Server are able to run without any param, which means that the server's name is ``localhost`` and the port number is ``56700
+2) Client and Server are able to run with a unique param, in the format: ``servername:port``
